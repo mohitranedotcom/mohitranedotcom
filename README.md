@@ -21,7 +21,7 @@
   <img alt="Website: mohitrane.com" src="https://img.shields.io/badge/Website-mohitrane.com-000000">
 </p>
 
-**TL;DR** - I'm **Mohit Rane**, a **Founding Architect, Enterprise Solution Architect, and Enterprise Solution Consultant**. I design the architecture behind enterprise systems that must survive **complexity, scale, changing teams, evolving technology, security constraints, and decisions whose consequences outlast the people who made them.** My work connects research, solution engineering, software manufacturing, and enterprise ownership into one continuous lifecycle: **[MohitRane](https://mohitrane.com) → [ESStudio](https://esstudios.uk) → [EagleSONX](https://eaglesonx.com) → [EnterpriseAge](https://enterpriseage.com).**
+**TL;DR** - I'm **Mohit Rane**, a **Founding Architect, Enterprise Solution Architect, and Enterprise Solution Consultant**. We design the architecture behind enterprise systems that must survive **complexity, scale, changing teams, evolving technology, security constraints, and decisions whose consequences outlast the people who made them.** Our work connects research, solution engineering, software manufacturing, and enterprise ownership into one continuous lifecycle: **[MohitRane](https://mohitrane.com) → [ESStudio](https://esstudios.uk) → [EagleSONX](https://eaglesonx.com) → [EnterpriseAge](https://enterpriseage.com).**
 
 ---
 
@@ -45,8 +45,8 @@ His work is organized as four connected platforms - **MohitRane** (research), **
 - [One Continuous Enterprise Software Lifecycle](#one-continuous-enterprise-software-lifecycle)
 - [The Four Platforms](#the-four-platforms)
 - [The Architecture Behind the Architecture](#the-architecture-behind-the-architecture)
-- [What I Believe](#what-i-believe)
-- [What I'm Building](#what-im-building)
+- [What We Believe](#what-we-believe)
+- [What We're Building](#what-were-building)
 - [Evidence Over Claims](#evidence-over-claims)
 - [What You'll Find Here](#what-youll-find-here)
 - [Engineering Philosophy](#engineering-philosophy)
@@ -70,13 +70,13 @@ Enterprise systems accumulate something more valuable than code:
 
 When that context disappears, organizations repeatedly pay to rediscover what they already knew.
 
-I build systems designed to **capture, preserve, validate, and operationalize that intelligence.**
+We build systems designed to **capture, preserve, validate, and operationalize that intelligence.**
 
 ---
 
 ## One Continuous Enterprise Software Lifecycle
 
-My work is organized as one connected ecosystem - **research → model → manufacture → deploy → operate:**
+Our work is organized as one connected ecosystem - **research → model → manufacture → deploy → operate:**
 
 ```text
                          WHY
@@ -142,7 +142,7 @@ It is a more disciplined way to engineer enterprise software.
 
 **Where the questions begin.**
 
-I explore:
+We explore:
 
 * Founding Architecture
 * Decision Architecture
@@ -168,7 +168,7 @@ I explore:
                         ↓
                     Capability
                         ↓
-             Enterprise Solution Model
+            Enterprise Solution Model
                         ↓
                     Architecture
                         ↓
@@ -245,7 +245,7 @@ Organizations acquire complete business capabilities and choose how they operate
 
 ## The Architecture Behind the Architecture
 
-The deeper problem I am studying is not:
+The deeper problem we are studying is not:
 
 > **"How do we build software faster?"**
 
@@ -283,11 +283,11 @@ That leads to a larger architecture:
                     └──────────────→ Context
 ```
 
-This is the loop I am interested in.
+This is the loop we are interested in.
 
 ---
 
-## What I Believe
+## What We Believe
 
 * Architecture is a **decision system**, not a diagram.
 * Context is **infrastructure**.
@@ -304,9 +304,9 @@ This is the loop I am interested in.
 
 ---
 
-## What I'm Building
+## What We're Building
 
-My research and engineering work spans a growing set of systems and frameworks.
+Our research and engineering work spans a growing set of systems and frameworks.
 
 ### 🧠 Context & Intelligence
 
@@ -354,7 +354,7 @@ My research and engineering work spans a growing set of systems and frameworks.
 
 ## Evidence Over Claims
 
-I try to attach evidence to every major idea.
+We try to attach evidence to every major idea.
 
 A concept should eventually become one or more of:
 
@@ -366,7 +366,7 @@ If an idea cannot survive contact with implementation, it is still a hypothesis.
 
 ## What You'll Find Here
 
-I treat GitHub as a **working engineering laboratory**, not a portfolio gallery.
+We treat GitHub as a **working engineering laboratory**, not a portfolio gallery.
 
 You will find:
 
@@ -416,7 +416,7 @@ That is intentional.
                      Evolve
 ```
 
-I optimize for:
+We optimize for:
 
 | Principle     | Over                        |
 | ------------- | --------------------------- |
@@ -443,7 +443,7 @@ The work is driven by questions rather than a fixed technology stack.
 * What should remain human when systems become increasingly autonomous?
 * What architecture survives when today's models, clouds, and frameworks disappear?
 
-I don't expect these questions to be solved by one product.
+We don't expect these questions to be solved by one product.
 
 **They require a body of work.**
 
@@ -451,7 +451,7 @@ I don't expect these questions to be solved by one product.
 
 ## The Long-Term Vision
 
-I am working toward an ecosystem where:
+We are working toward an ecosystem where:
 
 ```text
                     HUMAN INTENT
@@ -503,7 +503,7 @@ The ambition is simple to state:
 
 ## Selected Work
 
-The best way to understand my work is not through a list of technologies. Start with the systems:
+The best way to understand our work is not through a list of technologies. Start with the systems:
 
 | Layer | Platform | What it answers |
 | ----- | -------- | --------------- |
@@ -518,7 +518,7 @@ Then explore the repositories that provide the underlying evidence.
 
 ## Technology
 
-My engineering background spans:
+Our engineering background spans:
 
 **AI / GenAI · RAG · LLMs · Context Intelligence · Full-Stack Engineering · Cloud · DevOps · Kubernetes · Infrastructure as Code · Data Engineering · BI · Distributed Systems · Security Governance · Enterprise Architecture**
 
@@ -557,7 +557,7 @@ Through the platforms: [mohitrane.com](https://mohitrane.com), [esstudios.uk](ht
 
 Especially where **AI + Architecture + Security + Data + Infrastructure + Organizational Complexity** intersect.
 
-That's the kind of problem I want to understand.
+That's the kind of problem we want to understand.
 
 ---
 
@@ -584,7 +584,9 @@ That's the kind of problem I want to understand.
     "https://esstudios.uk",
     "https://eaglesonx.com",
     "https://enterpriseage.com",
-    "https://github.com/mohitranedotcom"
+    "https://github.com/mohitranedotcom",
+    "https://x.com/mohitranedotcom",
+    "https://www.linkedin.com/in/mohitranedotcom"
   ],
   "knowsAbout": [
     "Founding Architecture",
